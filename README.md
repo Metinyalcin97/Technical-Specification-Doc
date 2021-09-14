@@ -6,7 +6,7 @@ ID | User Name | Email                | Enabled
 
 
 ## New User
-- Username:
+- Username:       
 - Display Name:
 - Phone:
 - Email:
